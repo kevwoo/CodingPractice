@@ -1,6 +1,6 @@
 # ![Language](https://img.shields.io/badge/Language-Java%201.8-blue.svg)
 
-##LeetCode
+#[LeetCode](https://leetcode.com/problemset/all/)
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
@@ -9,9 +9,9 @@
 3| [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  | [Java](./LeetCode/3%20Longest%20Substring%20Without%20Repeating%20Characters%20/Solution.java) | _O(n)_        | _O(n)_          | Medium           |
 
 
-##CtCI
+#CtCI
 
 
-##Other
+#Other
 
 * [Implementation of Tictactoe](./Other/Tictactoe/Tictactoe.java)
