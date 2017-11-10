@@ -7,6 +7,7 @@ Folders will be named with the numer and the title of the LeetCode problems.
 More to be added later.
 
 ##LeetCode
+
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./LeetCode/1%20Two%20Sum/Solution.java) | _O(n)_       | _O(n)_          | Easy         |
@@ -15,5 +16,7 @@ More to be added later.
 
 ##CtCI
 
+
 ##Other
+
 * [Implementation of Tictactoe](./Other/Tictactoe/Tictactoe.java)
