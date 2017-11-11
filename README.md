@@ -9,7 +9,7 @@
 3| [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  | [Java](./LeetCode/3%20Longest%20Substring%20Without%20Repeating%20Characters%20/Solution.java) | _O(n)_        | _O(n)_          | Medium           |
 
 
-#CtCI
+#[CtCI]
 
 |  #  | Title           |  Solution       |  Time           | Space           |
 |-----|---------------- | --------------- | --------------- | --------------- |
