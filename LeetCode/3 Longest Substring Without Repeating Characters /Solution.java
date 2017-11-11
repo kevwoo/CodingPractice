@@ -1,7 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s1) {
     // Sliding Window Algorithm
-        //String s1 = "pwwkew";
         HashMap<Character, Integer> testTable = new HashMap<>();
         int max_length = 0;
         int index = 0;
