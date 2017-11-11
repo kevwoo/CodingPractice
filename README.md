@@ -10,9 +10,10 @@
 
 
 #CtCI
+
 |  #  | Title           |  Solution       |  Time           | Space           |
 |-----|---------------- | --------------- | --------------- | --------------- |
-1 | Partition LinkedList |[Java](./CtCI/20171110/Partition.java)|_O(n)_| _O(1)_|
+1 | Partition LinkedList | [Java](./CtCI/20171110/Partition.java) | _O(n)_ | _O(1)_|
 
 
 #Other
