@@ -14,6 +14,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           |
 |-----|---------------- | --------------- | --------------- | --------------- |
 1 | Partition LinkedList | [Java](./CtCI/20171110/Partition.java) | _O(n)_ | _O(1)_|
+2 | Stack of Plates | [Java](./CtCI/20171110/StackofPlates.java) | _O(1)_ | _O(n)_ |
 
 
 #Other
