@@ -88,8 +88,6 @@ public class Solution {
         int size = Integer.parseInt(fileContents[i++]);
         PriorityQueue<Node> nodePQ = new PriorityQueue<>(10, new PQsort());
         HashMap<String, Node> nodeMap = new HashMap<>();
-        double stockCount = 0;
-        double cashAmount = 0;
 
         if (fileContents[i++].equals("D0-POS")) {
             while (!fileContents[i].equals("")) {
@@ -102,8 +100,12 @@ public class Solution {
 
         if (fileContents[i++].equals("D1-TRN")) {
             while (!fileContents[i].equals("")) {
-                String[] inputArray = fileContents[i].split( " ");
+                double stockCount = 0;
+                double cashAmount = 0;
                 Node temp;
+
+                String[] inputArray = fileContents[i].split( " ");
+
                 if (nodeMap.containsKey(inputArray[0])) {
                     temp = nodeMap.get(inputArray[0]);
                 }
@@ -204,4 +206,3 @@ public class Solution {
         reconcile(fileContents);
     }
 }
-
