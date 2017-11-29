@@ -12,6 +12,8 @@
 61| [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./LeetCode/61%20Rotate%20List) | _O(n)_ | _O(1)_ | Medium |
 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Java](./LeetCode/134%20Gas%20Station) | _O(n)_ | _O(1)_ | Medium |
 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [Java](./LeetCode/151%20Reverse%20Words%20in%20a%20String)| _O(n)_ | _O(n)_ |  Medium  |
+355| [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Java](./LeetCode/355%20Design%20Twitter) | | | Medium |
+365| [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Java](./LeetCode/365%20Water%20and%20Jug%20Problem) | | | Medium|
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Java](./LeetCode/686%20Repeated%20String%20Match) | | | Easy|
 
 
