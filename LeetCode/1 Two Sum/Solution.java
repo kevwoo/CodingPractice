@@ -1,8 +1,7 @@
-import java.util.Hashtable;
+import java.util.HashMap;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Hashtable<Integer, Integer> complementSet = new Hashtable<>();
-        int[] ans = new int[2];
+        HashMap<Integer, Integer> complementSet = new HashMap<>();
         // Traverse the array
         int complement;
         for (int i=0; i<nums.length; i++){
